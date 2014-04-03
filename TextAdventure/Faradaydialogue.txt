@@ -1,0 +1,9 @@
+t::c::Hi there.
+t::c::Greetings.
+t::c::Nice day we're having.
+t::c::boom baby boom!
+t::c::lalalala.
+s::c::I think I need to talk to you, I believe that there has been a leak in the time space thingy and I need your help.  This is an overly long complex dialogue that is to test the length of the text and see who far I can do this and if the text box will automatically make a new line if this text is too long
+s::c::story2.
+s::c::story related stuff.
+s::c::plot plot plot plot.

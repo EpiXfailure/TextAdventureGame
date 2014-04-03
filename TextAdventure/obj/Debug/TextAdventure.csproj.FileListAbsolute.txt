@@ -1,0 +1,10 @@
+c:\users\samn\documents\visual studio 2012\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
+C:\Users\SamN\documents\visual studio 2012\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csprojResolveAssemblyReference.cache
+C:\Users\SamN\documents\visual studio 2012\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.Form1.resources
+C:\Users\SamN\documents\visual studio 2012\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.New_character.resources
+C:\Users\SamN\documents\visual studio 2012\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.Properties.Resources.resources
+C:\Users\SamN\documents\visual studio 2012\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csproj.GenerateResource.Cache
+C:\Users\SamN\documents\visual studio 2012\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
+C:\Users\SamN\documents\visual studio 2012\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb
+C:\Users\SamN\documents\visual studio 2012\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.exe
+C:\Users\SamN\documents\visual studio 2012\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.pdb

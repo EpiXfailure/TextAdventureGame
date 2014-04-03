@@ -1,0 +1,9 @@
+t:Hi there.
+t:Greetings.
+t:Nice day we're having.
+t:boom baby boom!
+t:lalalala.
+s:I think I need to talk to you, I believe that there has been a leak in the time space thingy and I need your help.  This is an overly long complex dialogue that is to test the length of the text and see who far I can do this and if the text box will automatically make a new line if this text is too long
+s:story2.
+s:story related stuff.
+s:plot plot plot plot.
